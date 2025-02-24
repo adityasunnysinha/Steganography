@@ -59,12 +59,12 @@ Usage:
 
 File Structure:
 
-📂 steganography
- ├── encoder.py    # Script to hide a message in an image
- ├── decoder.py    # Script to extract the hidden message
- ├── mypic.jpg     # Original image (example)
- ├── encryptedImage.jpg # Output encrypted image
- ├── README.md     # Project documentation
+--- steganography
+-encoder.py    # Script to hide a message in an image
+-decoder.py    # Script to extract the hidden message
+-mypic.jpg     # Original image (example)
+-encryptedImage.jpg # Output encrypted image
+-README.md     # Project documentation
 
 
  Future Enhancements:
